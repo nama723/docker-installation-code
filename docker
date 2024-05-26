@@ -4,3 +4,5 @@ docker run -d -p 80:8080 chandupriya/nodedemo:0.1
 docker statuscat
 docker status 
 yum install docker
+git checkout
+tewnty thirty
